@@ -277,6 +277,11 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\EidsMVC\Create.cshtml" />
+    <Content Include="Views\EidsMVC\Delete.cshtml" />
+    <Content Include="Views\EidsMVC\Details.cshtml" />
+    <Content Include="Views\EidsMVC\Edit.cshtml" />
+    <Content Include="Views\EidsMVC\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
