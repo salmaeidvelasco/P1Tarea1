@@ -12,5 +12,7 @@ namespace PracticaP1.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<PracticaP1.Models.Eid> Eids { get; set; }
     }
 }
